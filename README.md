@@ -1,5 +1,5 @@
 # IES-Fausti-Barberá
-**Content of 2nd year SMX classrooms**
+_**Content of 2nd year SMX classrooms**_
 
 ## List of Courses and Professors
 
